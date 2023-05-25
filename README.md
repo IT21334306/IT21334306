@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilmithwathsala&label=Profile%20views&color=0e75b6&style=flat" alt="dilmithwathsala" /> </p>
 
-- 🔭 I’m currently working on **Online vegitable selling Web Application**
+<!-- - 🔭 I’m currently working on **Online vegitable selling Web Application** -->
 
 - 🌱 I’m currently learning **React js**
 
