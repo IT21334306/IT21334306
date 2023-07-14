@@ -6,7 +6,7 @@
 - 📝 I regularly write articles on [https://medium.com/@dilmith519](https://medium.com/@dilmith519)
 
 - 📫 How to reach me **dilmith519@gmail.com**
-<p align="left"> <img src="https://www.dgdigital.in/img/46207-programmer.gif" alt="dilmithwathsala" width="600px" height="400px"/> </p>
+<p align="left"> <img src="https://www.dgdigital.in/img/46207-programmer.gif" alt="dilmithwathsala" width="550px" height="350px"/> </p>
 
 <!-- - 🔭 I’m currently working on **Online vegitable selling Web Application** -->
 
