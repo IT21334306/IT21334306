@@ -2,7 +2,7 @@
 <h3 align="center">------------------------------------</h3>
 
 
-<p align="left"> <img src="https://www.dgdigital.in/img/46207-programmer.gif" alt="dilmithwathsala" /> </p>
+<p align="left"> <img src="https://www.dgdigital.in/img/46207-programmer.gif" alt="dilmithwathsala" width="50px" /> </p>
 
 <!-- - 🔭 I’m currently working on **Online vegitable selling Web Application** -->
 
