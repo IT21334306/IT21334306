@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilmith Wathsala</h1>
 <h3 align="center">------------------------------------</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="dilmithwathsala" /> </p>
 
