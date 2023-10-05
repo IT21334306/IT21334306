@@ -25,6 +25,13 @@
   
 <a href="https://www.linkedin.com/in/dilmith-wathsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilmith wathsala" height="30" width="40" /></a>
 
+
+<a href="https://twitter.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dilmith Wathsala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dilmith-wathsala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilmith Wathsala" height="30" width="40" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dilmith Wathsala" height="30" width="40" /></a>
+<a href="https://instagram.com/duhun de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dilmith Wathsala" height="30" width="40" /></a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
