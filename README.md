@@ -2,6 +2,7 @@
 <h3 align="center">------------------------------------</h3>
 
 - 🌱 I’m currently learning **web devoloping**
+- 🔖 I am an undergraduate student of SLIIT seeking an internship
 - ⭕ See my portfoio Website [https://it21334306.github.io/dilmithwathsala.github.io/]
 - 📝 I regularly write articles on [https://medium.com/@dilmith519](https://medium.com/@dilmith519)
 - 📫 How to reach me **dilmith519@gmail.com**
