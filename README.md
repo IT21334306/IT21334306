@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilmith Wathsala</h1>
 
-- 🌱 I’m currently learning **web devoloping**
+- 🌱 I’m currently learning **Web Developing**
 - 🔖 I am an undergraduate student of SLIIT seeking an internship
 - ⭕ See my portfoio Website *[https://it21334306.github.io/dilmithwathsala.github.io/]*
 - 📝 I regularly write articles on [https://medium.com/@dilmith519](https://medium.com/@dilmith519)
