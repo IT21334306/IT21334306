@@ -5,7 +5,7 @@
 - ⭕ See my portfoio Website *[https://it21334306.github.io/dilmithwathsala.github.io/]*
 - 📝 I regularly write articles on [https://medium.com/@dilmith519](https://medium.com/@dilmith519)
 
-<p align="center"> <img src="https://media1.tenor.com/m/El4tmhtgd-kAAAAC/matrix-code.gif" alt="dilmithwathsala" width="550px" height="400px"/> </p>
+<p align="center"> <img src="https://media1.tenor.com/m/GVk4jB2u_i8AAAAd/coding.gif" alt="dilmithwathsala" width="550px" height="400px"/> </p>
 <!-- - 🔭 I’m currently working on **Online vegitable selling Web Application** -->
 
 <h3 align="left">Read My Blogs posts :</h3>
